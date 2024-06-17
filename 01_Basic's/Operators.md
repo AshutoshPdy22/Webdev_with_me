@@ -1,6 +1,6 @@
 
 # Operators in JS
-There are 2 type of operators in JS arithmetic operator and logical operator .
+There are 3 type of operators in JS arithmetic operator, logical operator and Comparison Operator .
 
 
 Different type of arithmetic operators :-
