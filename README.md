@@ -11,6 +11,7 @@ Web based scripting language are 2 type:-
 --
 - 1.client side script (vb script, JavaScript)
 - 2.server side script (php, .net, python, html)
+
 Benefit of JavaScript in
 --
 - web development :- jquery, angularjs, reactjs, vuejs, nodejs
