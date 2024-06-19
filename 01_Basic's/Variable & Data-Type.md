@@ -7,19 +7,19 @@ There are 3 type of comments
 
 - var
 
-```http
+```bash
 var x = "hello";
 var x = "world"; 
 x ="wow";
 ```
 - let
-```http
+```bash
 let x = "hello";
 let x = "world";//this 2 let not taken more then 1
 x ="wow";//we asign new variable value, without use of let
 ```
 - const
-```http
+```bash
 const x = "hello";
 const x = "world";//constane not support more then 1 const 
 x ="wow";//constance not support in variable
