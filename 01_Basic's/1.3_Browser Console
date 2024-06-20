@@ -1,1 +1,33 @@
 
+# Browser Console
+
+This help's us to explain JavaScript code more deeply, and to make it more readable. All output show in Browser console .
+
+Basic Example :-
+---
+
+```barh
+var x = 50;
+Console.log(x); //50
+Console.log(x +30); //80
+console.log(!x >= 60); //true because not sign revers output
+console.log([1,2,3]); //(3)[1,2,3]
+```
+Some Console for message:-
+---
+
+```barh
+console.error("something went wrong");
+console.table([1,2,3]);
+console.warn("This is just warning");
+console.clear();
+```
+Programe for check run time :-
+---
+
+```barh
+console.time("test");
+//write other code to
+//see speed of time taken
+console.timeEnd("test");
+```
