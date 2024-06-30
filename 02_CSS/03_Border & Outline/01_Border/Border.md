@@ -1,0 +1,11 @@
+# CSS Border Style
+- Solid
+- Dotted
+- Dashed
+- Double
+- Groove
+- Ridge
+- Inset
+- Outset
+- None
+- Mix
